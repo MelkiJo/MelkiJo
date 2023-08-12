@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melkijo</h1>
-<h3 align="center">A passionate frontend developer from Mataram, Nusa tenggara Barat, Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Mataram, West Nusa Tenggara, Indonesia</h3>
 
 - 🌱 I’m currently learning **typescript**
-
-- 👨‍💻 All of my projects are available at [https://personal-web-melkijo.vercel.app/](https://personal-web-melkijo.vercel.app/)
 
 - 💬 Ask me about **frontend web development**
 
