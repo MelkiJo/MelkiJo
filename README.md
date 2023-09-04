@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melkijo</h1>
-<h3 align="center">A passionate frontend developer from Mataram, West Nusa Tenggara, Indonesia</h3>
+<p align="center">A passionate frontend developer from Mataram, West Nusa Tenggara, Indonesia</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
